@@ -14,7 +14,7 @@ Alfabético: Formado por letras.
 Alfanumérico: Formado por todos los carácteres. Con este tipo de datos no se pueden realizar operaciones aritméticas.
 
 
-Elementos de un sistéma informático
+					Elementos de un sistéma informático
 
 Un sistéma informático esta diseñado para una manipulación óptima de los datos.
 
