@@ -1,0 +1,17 @@
+
+					La información
+
+La información es un conjunto de datos que aun no han sido manipulados ya que no toda la informacion se manipula ni se manipulo siempre de la misma manera. Los datos estan compuestos por caracteres que pueden ser de tres tipos: 
+
+	- Numérico
+	- Alfabético
+	- Alfanumérico
+
+Numérico: Formado por números.
+
+Alfabético: Formado por letras.
+
+Alfanumérico: Formado por todos los carácteres. Con este tipo de datos no se pueden realizar operaciones aritméticas.
+
+
+
